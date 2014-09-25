@@ -15,6 +15,7 @@ gem 'cancancan', '~> 1.9'
 gem 'bootstrap-sass'
 gem 'autoprefixer-rails'
 gem 'chartkick'
+gem 'nokogiri', '1.6.1'
 
 group :development do
   gem 'spring'
